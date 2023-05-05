@@ -5,5 +5,5 @@
 
 
 import os
-Import TRM
+import TRM
 TRM.login()
